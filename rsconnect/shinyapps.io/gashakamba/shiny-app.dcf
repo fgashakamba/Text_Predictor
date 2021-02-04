@@ -1,0 +1,12 @@
+name: shiny-app
+title: shiny-app
+username:
+account: gashakamba
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3581590
+bundleId: 4180668
+url: https://gashakamba.shinyapps.io/shiny-app/
+when: 1612450996.75617
+asMultiple: FALSE
+asStatic: FALSE
